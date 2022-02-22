@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Honourable House of Commons, January 30, 1692 by Richard Bynns ...</title>
+            <author>Bynns, Richard, d. 1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30811</idno>
+            <idno type="STC">Wing B6403</idno>
+            <idno type="STC">ESTC R20893</idno>
+            <idno type="EEBO-CITATION">12047322</idno>
+            <idno type="OCLC">ocm 12047322</idno>
+            <idno type="VID">53108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53108)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 861:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Honourable House of Commons, January 30, 1692 by Richard Bynns ...</title>
+                  <author>Bynns, Richard, d. 1713.</author>
+               </titleStmt>
+               <extent>[4], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>In the Savoy, Printed by Edw. Jones for William Crooke ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Errata: p. 31.</note>
+                  <note>Advertisement p. [1] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Isaiah LVII, 1 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53108:1"/>
+            <p> A SERMON Preached before the Honourable Houſe of Commons, <hi>January</hi> 30. 1692.</p>
+            <p>By RICHARD BYNNS, Fellow of <hi>Trinity Col<g ref="char:EOLhyphen"/>ledge</hi> in <hi>Cambridge,</hi> and Chaplain to his Grace the Duke of <hi>Somerſet.</hi>
+            </p>
+            <p>In the <hi>SA<g ref="char:V">Ʋ</g>OY.</hi>
+            </p>
+            <p>Printed by <hi>Edw. Jones,</hi> for <hi>William Crooke,</hi> at the Sign of the <hi>Green Dragon</hi> near <hi>Tem<g ref="char:EOLhyphen"/>ple-Barr.</hi> 1693.</p>
+            <pb facs="tcp:53108:2"/>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:53108:2"/>
+            <p> Mr. <hi>Bynn's</hi> SERMON Before the Honourable HOUSE of COMMONS.</p>
+            <p>
+               <hi>January</hi> 30. 1693.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:53108:3"/>
+            <opener>
+               <dateline>
+                  <date>Mercurii primo die Februarii. 1692.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>ORdered,</hi> That the Thanks of this Houſe be given to Mr. <hi>Bynns,</hi> Chaplain to his Grace the Duke of <hi>Somerſet,</hi> for the Sermon by him Preached before this Houſe, at St. <hi>Mar<g ref="char:EOLhyphen"/>garets Weſtminſter,</hi> upon the <hi>30th.</hi> Day of <hi>January</hi> laſt; And that he be deſired to Print the ſame, and that Mr. <hi>Hen. Boyle</hi> and Sir <hi>Orlando Gee,</hi> do acquaint him therewith.</p>
+            <closer>
+               <signed>Paul Jodrell. Cl. Dom. Com.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:53108:3"/>
+            <head>A SERMON Preached before the Houſe of Commons, <hi>January</hi> 30. 1692.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Iſa.</hi> 57. The former part of the firſt Verſe.</bibl>
+               <q>The Righteous Periſheth, and no Man lay<g ref="char:EOLhyphen"/>eth it to Heart.</q>
+            </epigraph>
+            <p>THeſe Words of the Prophet, are an up<g ref="char:EOLhyphen"/>braiding of the <hi>Jews,</hi> for a Supine Wretchedneſs of Temper, in being wholy unconcern'd, for the loſs of Eminent Good Men: And indeed, ſuch an Inſenſibility it is, as draws this Reproach along with it, to have for it<hi>'s</hi> Parent, a Prophane Diſſolute Age, Reigning in a general Corruption of Man<g ref="char:EOLhyphen"/>ners.</p>
+            <pb n="2" facs="tcp:53108:4"/>
+            <p> And when Impiety comes to this height once, when Vice and Diſorder bear a general Sway, what wonder is it, if there be no miſs of Vertue, no Concern for the loſs of the good Man? <hi>The Righteous Periſheth, and no Man layeth it to Heart.</hi>
+            </p>
+            <p>Theſe Words may ſeem in the Opinion of Learned Men, not ſo much to refer to the pre<g ref="char:EOLhyphen"/>ſent Times of <hi>Iſaiah</hi> then ſpeaking, as to thoſe future Calamitous Ones, growing worſe and worſe, as they ſtill drew nearer the <hi>Jews</hi> Cap<g ref="char:EOLhyphen"/>tivity. And ſo we may obſerve theſe two things worthy of our Conſideration.</p>
+            <p>Firſt, that in evil Diſtemper'd Times, in a Na<g ref="char:EOLhyphen"/>tional Corruption, when it pleaſes God to call the Good Man to himſelf, to <hi>miniſh the few Faith<g ref="char:EOLhyphen"/>ful</hi> from their Corrupter Brethren, it is a ſore Preſage of an impending Calamity; from which as the Mercy of God delivers the Juſt, ſo he Reſerves the Wicked for it.</p>
+            <p>The ſecond thing Obſervable is, that not to advert Timely, not to conſider Rightly, and lay to Heart the Reaſon of ſuch Providential Diſpenſation, is a Stupidity ſo much the more aggravating, as is the Sin and Offence then moſtly heighten'd, when the ſecure Sinner is leaſt touch'd with a Senſe of it.</p>
+            <div n="1" type="part">
+               <pb n="3" facs="tcp:53108:4"/>
+               <p> To begin with the Firſt, <hi>viz.</hi> the ſnatching away good Men from an evil Generation, is the Fore-runner of impending Publick Cala<g ref="char:EOLhyphen"/>mities.</p>
+               <p>
+                  <hi>The Righteous Periſheth.</hi>
+               </p>
+               <p>By Periſhing here, may be well enough un<g ref="char:EOLhyphen"/>derſtood, the ordinary way of Dying: But not ſo, however, as to Exclude any other Di<g ref="char:EOLhyphen"/>vine Permiſſion of an untimely violent Death: For ſo <hi>Joſiah</hi> himſelf, tho' next to <hi>David</hi> the moſt Righteous in the Line of the Kings of <hi>Judah,</hi> fell in the Day of Battle, by the Hand of the <hi>Egyptian</hi> too<g ref="char:punc">▪</g> and yet for all that, was he ſaid to be gather'd to his Fathers, and into his Grave in Peace. And indeed Dying as he<note place="margin">2 <hi>Kings</hi> 22. 20.</note> did, in the Love and Favour of God (for his Good Deeds followed him) and receiving by his Death an Exemption, as it were, from ap<g ref="char:EOLhyphen"/>proaching Evils, might be well enough ſaid to reſt in Peace, becauſe delivered by God from beholding that Ruine, which was intended, tho' not in his days, to be brought upon the Houſe of <hi>Judah.</hi>
+               </p>
+               <p>Thus tho' this Righteous Perſon's Death was Peace to himſelf, yet was it a Puniſhment to the People and Nation, from whom he was taken: For he was taken from the Evil to
+<pb n="4" facs="tcp:53108:5"/> come, that Evil of Deſolation ſo much La<g ref="char:EOLhyphen"/>mented by the Prophet <hi>Jeremy,</hi> when the Line of Deſtruction was now drawing over the Remnant of <hi>Judah</hi> and <hi>Jeruſalem,</hi> as it was be<g ref="char:EOLhyphen"/>fore over <hi>Samaria,</hi> and ſo the whole Body of the <hi>Jews</hi> made Captives in a ſtrange Land.</p>
+               <p>Thus if Puniſhments are Reſpited ſome time from a People otherwiſe ripe for them, for the ſake of ſome choſen Ones, who like <hi>Moſes,</hi> ſtand in the Gap, and for a while, divert the fiery Indignation; yet upon their Removal, De<g ref="char:EOLhyphen"/>ſtruction breaks in afreſh.</p>
+               <p>No ſooner was the Righteous <hi>Lot</hi> eſcap'd to that little City of Refuge, which God had ſhewn him, but it rain'd down Fire and Brim<g ref="char:EOLhyphen"/>ſtone upon <hi>Sodom,</hi> and it's Neighbouring Ci<g ref="char:EOLhyphen"/>ties. Had there been but ten Righteous in all the Plain, at <hi>Abraham</hi>'s Interceſſion, the Cities<note place="margin">
+                     <hi>Gen.</hi> 19.</note> had bin ſpar'd: But for want of ſo few a Num<g ref="char:EOLhyphen"/>ber, did the Flame Conſume them.</p>
+               <p>It is true indeed, it is not univerſally to be underſtood, as if the Righteous were always exempt from Temporal Puniſhments in com<g ref="char:EOLhyphen"/>mon with the Wicked, ſo long as they are in Society with them in this World: For the Relation they bear to a Community, does in<g ref="char:EOLhyphen"/>volve them often in the Miſeries, as well
+<pb n="5" facs="tcp:53108:5"/> as the Advantages of a Common-Wealth.</p>
+               <p>For as the Welfare of Publick Societies, Hu<g ref="char:EOLhyphen"/>manly ſpeaking, depends moſtly upon the Care and Probity, the Piety, Fitneſs and Abili<g ref="char:EOLhyphen"/>ties of thoſe that Govern: So on the other hand, by rebating of thoſe Vertues, does the Declenſion of the State enſue. And this the Wiſe Man aſſures us (who was the beſt expe<g ref="char:EOLhyphen"/>rienc'd in Politics of any) when he ſays, that<note place="margin">
+                     <hi>Prov.</hi> 14. 34.</note> 
+                  <hi>Righteouſneſs Exalteth a Nation,</hi> but withal, that <hi>Sin is a Reproach to any People.</hi>
+               </p>
+               <p>Now then, if this latter happens to be up<g ref="char:EOLhyphen"/>permoſt, as where Sin is in vogue, there muſt be a Decay of Diſcipline, a Relaxation of Laws and good Order; and if the Hands of thoſe that ſhould bind the ſeverals to their Duty, be themſelves weak and hanging down, if the Props and Supporters of <hi>Iſrael</hi> be ſhaken, and a Licentiouſneſs from whatever Quarter, or however caus'd, be ſuffer'd to paſs upon an un<g ref="char:EOLhyphen"/>godly People, for more Exemplary Puniſhment of Preſumptuous Sins: It cannot be, I ſay, Ordinarily ſpeaking, in ſuch a crazy Conſtitu<g ref="char:EOLhyphen"/>tion, in ſuch a Tottering State, but that the Righteous, if there be any, ſhould Promiſcu<g ref="char:EOLhyphen"/>ouſly ſuffer with the Wicked.</p>
+               <p>For Bodies Politick, have their Judgment in
+<pb n="6" facs="tcp:53108:6"/> this World: There is no Reſurrection of a State, and Conſequently it's Doom is by Providence determin'd here. And hence for the Iniquity and Diſobedience of a People, for want of ex<g ref="char:EOLhyphen"/>ecuting Judgment and Juſtice, for Idolatry, Profaneneſs, Oppreſſion, Murder and Rebelli<g ref="char:EOLhyphen"/>on, does God Almighty Over-turn Kingdoms, Tranſplant Nations, as he did the <hi>Jews</hi> here, leading their Princes and People, their Prieſts and Prophets into Captivity, to be Chaſtiz'd and Humbled under the Burthen of their Sins.</p>
+               <p>The good Man's Lot is ſometimes then to Periſh with the Wicked, but the Periſhing of the one and the other, tho' ſeeming outward<g ref="char:EOLhyphen"/>ly the ſame, yet has this difference, the one dyes in his Sins, and the other Happily makes his paſſage to a ſure and peaceful Retreat. This Latter is only taken away from the Evil to come, that ſo the greater Puniſhment might paſs on the Wicked, as it certainly muſt, when the <hi>Godly Man faileth,</hi> when the uſeful Man is<note place="margin">
+                     <hi>Pſ.</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2. 1.</note> with-held from doing any longer good to a loſt People, Infatuated in their Sins.</p>
+               <p>It is true, Godlineſs has the promiſe of this<note place="margin">2 <hi>Tim.</hi> 4 8.</note> Life, and that which is to come; but by Us Chriſtians, this Latter is moſt to be Attended
+<pb n="7" facs="tcp:53108:6"/> to, as giving us a better Light, a clearer Proſ<g ref="char:EOLhyphen"/>pect of Rewards and Puniſhments, than any other Diſpenſation did; and therefore we are <hi>in Patience to poſſeſs our Souls,</hi> not thinking it<note place="margin">
+                     <hi>Luke</hi> 21. 19.</note> a periſhing to our Loſs, if at ſome times we are, as we think, too ſoon remov'd from hence.</p>
+               <p>Neither indeed, was that other Rule of the <hi>Moſaic</hi> Diſpenſation, as to outward Tempo<g ref="char:EOLhyphen"/>ral Bleſſings ſo generally obſerv'd towards the Righteous, as never to fail them; and yet withal, Reconcileable to it's Promiſes too, in the reaſon of ſuch Holy Men as <hi>David,</hi> who when they enter into the Sanctuary, and con<g ref="char:EOLhyphen"/>ſult God in his Holy Places, can well enough underſtand the Periſhing of the Righteous, to be a Sign of God's Diſpleaſure to thoſe from whom they are taken, and not ſuffer'd to live longer with.</p>
+               <p>Thus it far'd with the Holy Men of Old, Prieſts, Prophets, Kings and Rulers; many of them as the Apoſtle ſpeaks, <hi>of whom the</hi>
+                  <note place="margin">
+                     <hi>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>br.</hi> 11.</note> 
+                  <hi>World was not worthy,</hi> by their ſeveral Violent Deaths, to be remov'd from ſome one Perverſe Generation or other, that would not be re<g ref="char:EOLhyphen"/>claim'd, that ſo the Evil intended, might after their Days, be brought upon the Wicked.</p>
+               <pb n="8" facs="tcp:53108:7"/>
+               <p> Thus the Periſhing of the Righteous be<g ref="char:EOLhyphen"/>comes the Puniſhment of the Wicked, a Sign of their approaching Deſtruction. And no ſoon<g ref="char:EOLhyphen"/>er was <hi>Joſiah</hi> remov'd, but Wickedneſs took it's Looſe, Idolatry march'd bare-fac'd through<g ref="char:EOLhyphen"/>out the Land, the Temple was Defiled, the true Religion and Holy Worſhip ſet at naught, and Iniquity and Profaneneſs ſet up by a Law. With good Reaſon then, the Prophet takes up with the Lamentation of the Valley of <hi>Me<g ref="char:EOLhyphen"/>giddon,</hi>
+                  <note place="margin">
+                     <hi>Zech.</hi> 12. 11.</note> the Place where <hi>Joſiah</hi> fell, for ſoon after did the Wickedneſs of his Poſterity, bring on that Captivity, which for his Righteouſ<g ref="char:EOLhyphen"/>neſs only, was delay'd before.</p>
+               <p>And thus I have done with the firſt Obſer<g ref="char:EOLhyphen"/>vable, and have ſhewn you, that the Periſhing of the Righteous, is at ſome times permitted for a puniſhment of the Wicked.</p>
+            </div>
+            <div n="2" type="part">
+               <p>The next thing to be obſerv'd, is the not laying to Heart, the not conſidering rightly of this matter, which was the Stupidity of the <hi>Jews,</hi> ſo much blam'd in my Text.</p>
+               <p>And indeed, this was the moſt aggravating Sin that could be, not to be mov'd by Exam<g ref="char:EOLhyphen"/>ple, to have no Remorſe upon the Judgments of God falling round about them: Not to Repent upon the Warning given them by pre<g ref="char:EOLhyphen"/>ſent
+<pb n="9" facs="tcp:53108:7"/> Calamities, eſpecially, when they ſaw the Good Man fall too, the Righteous taken away the Councellor, the able Miniſter, the uſeful Helpers withdrawn from a ſinking State.</p>
+               <p>Could they think that God ſhould ſuffer the periſhing of ſuch, and yet let the Wickedneſs of their Hands eſcape? Should not ſuch Warning make them Reflect rather, and think their own Hour was a-coming? Or could they think, that God takes pleaſure in Wickedneſs, at leaſt winks at it, and is altogether ſuch as are Themſelves? No ſuch Thoughts could happen to any one that had yet any live part, or tender Senſe about him: For ſcarcely is a Man Wicked to an Extremity at once, he comes to it by Degrees, and receives many a Check, before the Habit becomes Confirm'd and Strengthn'd in him: But when he arrives to this paſs once, that his Wickedneſſes have gone over his Head, that he is plung'd, that his Reaſon is ſunk, his Conſcience over-whel<g ref="char:EOLhyphen"/>m'd, and like the <hi>Leviathan</hi> in the Waters, can ſport himſelf in this miry Deep, then is his Diſ<g ref="char:EOLhyphen"/>eaſe come to its Height, he is ſo much the more Wicked, by how much leſs he is Senſi<g ref="char:EOLhyphen"/>ble of his Sin.</p>
+               <p>This is that Security that is proof againſt
+<pb n="10" facs="tcp:53108:8"/> all Correction, Deaf to all Advice and Coun<g ref="char:EOLhyphen"/>ſel, Stubbornly bent upon Evil, and that with<g ref="char:EOLhyphen"/>out Remedy, becauſe inſenſible of that which ſhould work it's change.</p>
+               <p>Such a Train of ill Qualities, does this Stu<g ref="char:EOLhyphen"/>pid and Sear'd Conſcience draw along with it: And juſt ſuch a groſs People were the <hi>Jews</hi> at this time, <hi>ſo ſetled upon their Lees,</hi> as the<note place="margin">
+                     <hi>Zeph.</hi> 1. 12.</note> Prophet ſpeaks, ſo loſt to all Morality and Re<g ref="char:EOLhyphen"/>ligion, as to doubt at length of a Providence, and to ſay in their Heart, <hi>the Lord will not do Good, neither will be do Evil.</hi>
+               </p>
+               <p>And ſo, no wonder we find this People ſo fearleſs of God's Judgments, taking no warn<g ref="char:EOLhyphen"/>ing at impending Calamities, no, not ſo much as laying to Heart the periſhing of the Righ<g ref="char:EOLhyphen"/>teous, who alone, if any, could have ſav'd them.</p>
+               <p>The Righteous may Periſh for all them, and none of theſe wretches lay it to Heart, the Merciful Men may be taken away, and yet none of them conſider that they are taken away from the Evil to come.</p>
+               <p>And that we may ſee, theſe <hi>Jews</hi> were all of a piece, true <hi>Jews</hi> ſtill, as hating to be Re<g ref="char:EOLhyphen"/>form'd, their Character is found the ſame throughout both Teſtaments, and they that
+<pb n="11" facs="tcp:53108:8"/> ſtoned the Prophets in the One, are for Cru<g ref="char:EOLhyphen"/>cifying their <hi>Meſſiah</hi> and King in the Other, a perverſe Generation, not to be overcome by Truth or Love, ſo prevalent over Ingenuous Minds. <hi>Oh! Jeruſalem, Jeruſalem,</hi> ſays our Saviour, when he wept over the unrelenting City, <hi>if thou hadſt known in this thy Day, the things that belong unto thy Peace!</hi> And again, <hi>how oft would I have gather'd thy Children toge<g ref="char:EOLhyphen"/>ther, as a Hen gathereth her Brood under her Wings, and ye would not! Behold your Houſe is left unto you Deſolate.</hi> And yet to ſee how eagerly they drew this Deſolation upon them<g ref="char:EOLhyphen"/>ſelves: For it was for that Blood of the Juſt One, that their Houſe was to become Deſo<g ref="char:EOLhyphen"/>late, and how greedily did they covet that very Blood? <hi>Shall I Crucifie your King?</hi> Says <hi>Pilate.</hi> He ſtood agaſt at it, yet the popular Cry was, <hi>Crucifie him, Crucifie him.</hi> The Hea<g ref="char:EOLhyphen"/>then Governor call'd for Water to waſh his Hands of this Guilt, he was for making him<g ref="char:EOLhyphen"/>ſelf as innocent as he could. But what ſay the Rabble, the Multitude and the Tumul<g ref="char:EOLhyphen"/>tuous? Rather than not have it ſo, <hi>his Blood,</hi> ſay they, <hi>be vpon <g ref="char:V">Ʋ</g>s and our Children;</hi> a heavy Curſe, and what ſticks to that vagabond Na<g ref="char:EOLhyphen"/>tion to this Day.</p>
+            </div>
+            <div type="application">
+               <pb n="12" facs="tcp:53108:9"/>
+               <p> But leave we now this obdurate unthinking People, and let us come nearer home with an enquiry upon our ſelves. Certainly we ſhall find more Relenting here, and indeed it is but fit we ſhould. For we of this Nation, have had our Turn of Calamities, we have ſeen the Oppreſſion of our People, and have had our ſhare in a Captivity too.</p>
+               <p>Tho' what imbitters our Cup is, our Capti<g ref="char:EOLhyphen"/>vity was of our ſelves, it was not a Foreign <hi>Enemy that did us this Diſhonour, but they were Familiars of our own, with whom we took as we thought ſweet Counſels;</hi> Men of perverſe Spirits ariſing from among our ſelves, that puniſhed us with a Sword out of our own Bowels.</p>
+               <p>When the Almighty was wont to threaten Deſtruction to the unrepenting <hi>Jews,</hi> he told them, he would hiſs for the Fly from <hi>Egypt,</hi>
+                  <note place="margin">
+                     <hi>Iſai.</hi> 7. 14.</note> for the Bee from <hi>Aſſyria,</hi> to ſpeak in the Lan<g ref="char:EOLhyphen"/>guage of the Prophet: But alas! We had vi<g ref="char:EOLhyphen"/>ler Vermine of our own at home, the Locuſt and Caterpillar, an Army of inmate Deſtroy<g ref="char:EOLhyphen"/>ers laid waſt our Land. And if it might be ſaid perhaps that an open Enemy from with<g ref="char:EOLhyphen"/>out, could not have greatly harm'd us, yet will it not be allowed, I fear, that we had not
+<pb n="13" facs="tcp:53108:9"/> power of our ſelves, and that we would not uſe that power too, to our own Deſtructi<g ref="char:EOLhyphen"/>on.</p>
+               <p>Indeed that power we had, and too ſenſibly did experience it; if that be our Glorying, we may Glory; but it is in our Shame, and Con<g ref="char:EOLhyphen"/>fuſion of face ſhould attend us for it.</p>
+               <p>This very Day reminds us of our Humilia<g ref="char:EOLhyphen"/>tion for thoſe paſt Tranſgreſſions, and it is by public Authority made a ſtanding Law to our <hi>Iſrael,</hi> that once a Year at leaſt, we ſhould be<g ref="char:EOLhyphen"/>wail our former Captivity, and Repent us of thoſe deadly Sins that occaſion'd ſuch a Na<g ref="char:EOLhyphen"/>tional Calamity,<hi>—Deliver us from Blood-guil<g ref="char:EOLhyphen"/>tineſs, O Lord, that of this Day eſpecially, thou that makeſt Inquiſition for Blood: Thou that ſayſt</hi>
+                  <note place="margin">
+                     <hi>Num.</hi> 35.</note> 
+                  <hi>a Land is Defil'd with Blood, be Merciful unto this Land of ours, ſo ſtaind as it is, not with vulgar ordinary Blood, which yet was too dear to be pour'd out like Water, but with that of our Princes and Nobles, and what is moſt Aſtoniſh<g ref="char:EOLhyphen"/>ing, even that of the Lord's Anointed, our late Slaughter'd Sovereign himſelf.</hi>
+               </p>
+               <p>And muſt this Land ſtill Mourn for Blood then? Without an Attonement and a deep Re<g ref="char:EOLhyphen"/>pentance, it muſt do ſo.</p>
+               <p>But have we not already Repented long
+<pb n="14" facs="tcp:53108:10"/> enough? May ſome ſay, what! Still the old Saw of a returning Faſt?—Ye Men of <hi>Iſrael,</hi> Ye Men of the <hi>Sanhedrin,</hi> Ye have given us Laws and Ordinances that are not good. Not good in<g ref="char:EOLhyphen"/>deed, to thoſe to whom they are grievous; and ſo the Statutes of the Almighty himſelf are not good to a Rebellious gain-ſaying People, hardn'd in their Impiety, unrelenting for their Sins, and impatient of coming to an Acknow<g ref="char:EOLhyphen"/>ledgment of their Faults.</p>
+               <p>And if there can be found any ſuch amongſt us of that unhappy temper, to them truly the Statutes and Ordinances of this Day are not good: But then it muſt be confeſs'd, that it is their own Wickedneſs, their own Impeni<g ref="char:EOLhyphen"/>tence that makes 'em ſo.</p>
+               <p>If the Law of <hi>Moſes</hi> would admit of no Sacri<g ref="char:EOLhyphen"/>fice for wilful Murther; <hi>for who ſo ſheddeth Man's Blood, by Man ſhall his Blood be ſhed, ye ſhall</hi>
+                  <note place="margin">
+                     <hi>Gen.</hi> 9.</note> 
+                  <hi>not in any wiſe take Satisfaction for a Murther,</hi>
+                  <note place="margin">
+                     <hi>Numb.</hi> 35. 31.</note> ſays the Law: Is it a great thing then for us, when even the moſt heinous Murthers (and I think that of this Day muſt ſtand by it ſelf alone without Parallel) find Remiſſion in the Blood of Chriſt, the cleanſer of all Sins whatever, conjoyn'd with a true Com<g ref="char:EOLhyphen"/>punction and Sincere Repentance: Is it a great
+<pb n="15" facs="tcp:53108:10"/> thing then, I ſay, ſince we Chriſtians have a Proviſion now made, a Sacrifice ready to offer, to adjoyn our Tears, our Sorrow, our Confeſſi<g ref="char:EOLhyphen"/>on of what we have done amiſs to provoke God's Wrath againſt Us? Is it a great thing to melt a little into Tenderneſs and Compun<g ref="char:EOLhyphen"/>ction, to bend our ſtubborn Hearts, to bruiſe and ſoften them a little with the Diſcipline of this Day? What are we afraid we ſhall be too Repentant? We ſhall overdo in Duty? More than Compenſate for our Crime? Forgive this once that exceſs to us, never was better fault committed.</p>
+               <p>But why do I Quaere about the Day, as if we could be Sick of it? Since that were an Argument againſt the Sincerity of our Re<g ref="char:EOLhyphen"/>pentance, ſince it would ſeem as tho' we car'd not to remember our old Sins, and not ſo old neither, ſince within Memory of Men ſtill living. Not remember the Murther of this Day? Why, the Decree is perpetual to that very end, it never ſhould be but Re<g ref="char:EOLhyphen"/>member'd; and for this Reaſon I take it, that never the like Fact a ſecond time be done again.</p>
+               <p>If then our Repentance does not come up to this, perhaps it were as good as none, a
+<pb n="16" facs="tcp:53108:11" rendition="simple:additions"/> prevaricating Repentance, a Repentance it ſelf to be Repented of.</p>
+               <p>No! The Piety and Loyalty of our Senate upon the joyful Turn of our Captivity, when Peace began to dawn upon us after a dark night of affliction; when our Ancient Laws and Conſtitutions began to revive: When Liberty truly ſo call'd, and Religion reform'd from Rage and Enthuſiaſm, regain'd their for<g ref="char:EOLhyphen"/>mer Luſtre and Settlement, when the Crown and the Church Eſtabliſh'd (and may it be ever ſo Eſtabliſhed!) When <hi>Moſes</hi> and <hi>Aaron</hi> were in Credit and Authority with a Repent<g ref="char:EOLhyphen"/>ing People once more: Then it was, I ſay, that the Piety and Loyalty of our Senate, ma<g ref="char:EOLhyphen"/>ny of whom are now preſent in this Honou<g ref="char:EOLhyphen"/>rable Aſſembly, as they concur'd in their joy<g ref="char:EOLhyphen"/>ful thanks to the Almighty for his wonderful viſiting us with Bleſſings, after the time that he had pla<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed us: So did they lay to Heart likewiſe, look back with anguiſh upon thoſe crying Sins that brought God's Judgments ſo heavily down upon this Kingdom, and by as publick a Sanction as the Crimes were publick, enacted this Day of Humiliation, for the averting God's Anger, for imploring God's Mercy and Forgiveneſs to us of Sacred and
+<pb n="17" facs="tcp:53108:11"/> 
+                  <hi>Innocent Blood, that it might not be viſited upon</hi>
+                  <note place="margin">12 <hi>Car.</hi> 2. <hi>l.</hi> 30. Manby<hi>'s Collect.</hi>
+                  </note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>s or our Poſterity.</hi>
+               </p>
+               <p>But I muſt not forget to diſtinguiſh what our Loyal and worthy Patriots have done al<g ref="char:EOLhyphen"/>ready to my Hand: I muſt not Confound the Innocent with the Guilty. We were not all of us Sons of <hi>Corah,</hi> not all Embark'd in the Ruin of a Flouriſhing Church and Monarchy; not a Quarter part of the Nation (I mean thoſe that knew what they were a doing) did give their Suffrage or Approbation to that Horrid Pageantry of Injuſtice, that Murther<g ref="char:EOLhyphen"/>ing High Court by which our Sovereign fell.</p>
+               <p>No, the Infamy is given where due, to a part, to a Faction, to ſome <hi>Armed Traitors,</hi> who when they had forc'd from themſelves the King, and then the Lords, and then the bet<g ref="char:EOLhyphen"/>ter and honeſter part of Themſelves, ſat a Jun<g ref="char:EOLhyphen"/>to by their own Authority, becauſe they had Power, and thence ſprang that Notorious Ordinance, that Law of King-killing, never before heard of, nor I hope, ever ſhall be in this Land again.</p>
+               <p>And that it was ſo, I cannot bring better Authority, nor more Pathetick words, or better Sens'd, then I find in the Act of
+<pb n="18" facs="tcp:53108:12" rendition="simple:additions"/> Attainder of ſome Guilty Perſons of this Day.</p>
+               <p>
+                  <hi>By this Horrid Action (i. e.</hi> the Murther of<note place="margin">12 <hi>Car.</hi> 2.</note> our Late Sovereign) I Repeat the words of the Act, <hi>the Proteſtant Religion hath receiv'd the greateſt Wound and Reproach, and the Peo<g ref="char:EOLhyphen"/>ple of</hi> England <hi>the moſt inſupportable ſhame and Infamy, that was poſſible for the Enemies of God and <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the King to bring upon us: Whilſt the Fanatic Rage of a few Miſcreants, who were as far from being True Proteſtants, as they were from being true Subjects, ſtands imputed by our Adver<g ref="char:EOLhyphen"/>ſaries to the whole Nation.</hi>
+               </p>
+               <p>And did we then give our Adverſaries this advantage againſt us? Did our Sworn Ene<g ref="char:EOLhyphen"/>mies take occaſion from hence of Magnifying themſelves againſt us? Did they upbraid us for being better Maſters in the School of Trea<g ref="char:EOLhyphen"/>chery, than were themſelves?</p>
+               <p>Nay, did we chuſe to gratifie them ſo far, as to be doing their own Work for them? And what they were deſirous we ſhould do<hi>—Ay, there, there, ſo would we have it,</hi> might they ſay, never better harveſt for Popery,<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ.</hi> 35. 25.</note> than now. And it is all one to an Enemy, which way the Deſign be brought about, whether by his own Skill, or others being Inſtrumental for him.</p>
+               <pb n="19" facs="tcp:53108:12" rendition="simple:additions"/>
+               <p> And it is for ſuch reaſon, as I take it, the <hi>30th.</hi> of <hi>January</hi> ſtands in our Calendar a Me<g ref="char:EOLhyphen"/>morial, and as much a Witneſs againſt thoſe Factious Anti-Monarchical Men, as that other of the <hi>5th</hi> of <hi>November</hi> againſt that daring Popiſh Impiety.</p>
+               <p>They both aim'd at the Public Ruine, tho' the one happily miſcarry'd in the At<g ref="char:EOLhyphen"/>tempt, the other as unhappily took Effect, <hi>and it was then their Power of Darkneſs.</hi>
+                  <note place="margin">
+                     <hi>Luke</hi> 22. 53.</note>
+               </p>
+               <p>If Popery be then ſo highly Deteſtable; if Arbitrary Power be ſo juſtly odious, why ſhould either of them find room for practice with them, who ſay they hate them? If Ar<g ref="char:EOLhyphen"/>bitrary Power be ſo dangerous in the Prince, why ſhould it not be deem'd ſo in the Subject? in a popular Junto too?</p>
+               <p>For Popery is ſtill Popery under what Guiſe ſoever it appears, in what place ſoever found, and to kill Kings, and to teach Subjects to do ſo, is as errant Popery as any in the Court of <hi>Rome;</hi> as on the other hand to take away Life, Liberty and Property, without reſpect to Conſcience and Equity, Rule of Law, and the known Juſtice of a Nation; is ſurely, I ſhould think, as Arbitrary a piece of Tyran<g ref="char:EOLhyphen"/>ny, as any can be found in <hi>France.</hi>
+               </p>
+               <pb n="20" facs="tcp:53108:13" rendition="simple:additions"/>
+               <p> If we then object theſe things to our Ene<g ref="char:EOLhyphen"/>mies,<note place="margin">1 <hi>Sam.</hi> 13. 20.</note> why do we not keep our ſelves free from their Contagion? It is true indeed we may go down, like the Children of <hi>Iſrael</hi> to the Phi<g ref="char:EOLhyphen"/>liſtines<note place="margin">1 <hi>Sam<g ref="char:punc">▪</g>
+                     </hi> 13 <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0<g ref="char:punc">▪</g>
+                  </note> forge to whet our Weapons, and it is a Stratagem well enough, ſuppoſing we attack the Enemy with them: But for ſhame, let us not bring the deadly Armory to our own home: Let us take the Enemy at whatever Advantage we can, but have a care of practiſing theſe Wiles upon our ſelves: Otherwiſe we are doing their own very work for them, we are opening a Breach that they the better may come in.</p>
+               <p>Thus when the <hi>Roman</hi> Army was beleagu<g ref="char:EOLhyphen"/>ering <hi>Jeruſalem,</hi> (at the time of the Deſolation foretold by our Savior) as we learn from <hi>Joſephus</hi> there were a ſort of Zealots in the City, that did them more Service than all their battering Rams beſides; by the help of this Faction it was, that the <hi>Jews</hi> became a Prey to the <hi>Roman</hi> Conque<g ref="char:EOLhyphen"/>rors: Nay, tho' they could Repel the Enemy as often as they pleas'd to unite themſelves, yet up<g ref="char:EOLhyphen"/>on a Reſpite, when one wou'd think they ſhould be taking breath, and preparing for a new At<g ref="char:EOLhyphen"/>tack, what do they do but employ that time in Civil Wars among themſelves?</p>
+               <p>Thus the <hi>Roman</hi> Army by looking on only,
+<pb n="21" facs="tcp:53108:13"/> if they had not ſtruck a blow, might have carry'd the Town, while the <hi>Jews</hi> were Con<g ref="char:EOLhyphen"/>quering one another, to make themſelves the eaſier Booty to their Enemies.</p>
+               <p>We had our times of Zealotiſm too, and what the Miſeries and Confuſions then were, this very Day is a ſad Remembrance of. We can undoe our ſelves 'tis true, we have try'd it once already: But for God's ſake let not the Enemy ever have Advantage of us by a ſecond Attempt of that Nature, <hi>for if ever the</hi> Romans <hi>do come to take away our Place and Nation,</hi> which God forbid, I wiſh<note place="margin">
+                     <hi>Joh.</hi> 11. 48.</note> it may not be by the help of Home-bred Diviſions, by private Animoſities, Secret Jea<g ref="char:EOLhyphen"/>louſies, and particular Intereſts going contra<g ref="char:EOLhyphen"/>ry to the Public Good.</p>
+               <p>And I can't tell how, there never were any Broils where Religion had not it's ſhare too, be there Reaſon for it or no, no matter, it makes a noiſe, and ſerves for an excellent pretence to cover Villany with.</p>
+               <p>Some have an unruly Zeal, too much, it is too ſtrong for them: Others have as little or none at all, Some are Religious, even to a Nicety and Scruple: Others are never ſo much as troubled with Niceties at
+<pb n="22" facs="tcp:53108:14"/> all: Some have the power of Religion, and that's well: Others have the form of it, and they think that's better, and it may be ſome others there are that have neither Power nor Form, and they think it beſt of all: For theſe latter upon occaſion can ſerve with any Zeal or Religion afoot: Can be as Strenuous Aſſertors, and as violent oppoſers as if it were all Truth and good Earneſt, when ſtill there is ſomething of Self, lurking at the bottom, ſomething that does not appear at preſent, but may do afterward, that gives the firſt Spring and Motion to all.</p>
+               <p>Thus that good-natur'd thing Religion, that harmleſs ſimplicity, that well-meaning Since<g ref="char:EOLhyphen"/>rity, that inoffenſive Dove, that Univerſal Charity that believeth all things, hopeth all things, thinketh no ill its ſelf, and therefore cannot eaſily think ill of others, is for that Reaſon liable to the abuſe of thoſe <hi>who by cunning Craftineſs lye in wait to deceive,</hi> and ſo the intention of the Religious, tho' at firſt it means well, yet by the Crafty Manager, of<g ref="char:EOLhyphen"/>ten Terminates in a quite different end from what the purpoſe was.</p>
+               <p>And ſo it far'd with a great many well-meaning People, in the beginning of our late
+<pb n="23" facs="tcp:53108:14"/> unhappy Wars, who never thought things would have come to that paſs as they did, or if they had thought it, would for ever have kept their Scruples in their own Breaſt.</p>
+               <p>A Caution then this is to us (for what has been may be) to have a Care of the begin<g ref="char:EOLhyphen"/>ning of things, leaſt when we have ſet them a foot, and have put them out of our pow<g ref="char:EOLhyphen"/>er, we cannot, tho' we would never ſo wil<g ref="char:EOLhyphen"/>lingly, recall them back.</p>
+               <p>Rather let us bear with ſome things tho' ſuppoſedly inconvenient, if there be no Sin in them, than by an over-fondneſs of Inno<g ref="char:EOLhyphen"/>vation when it is unſeaſonable, Date the be<g ref="char:EOLhyphen"/>ginning of ſome new Deformity, rather than the mending of what we ſuppoſe Defective.</p>
+               <p>And think not the worſe of me, if I ſpeak the Senſe of the Bleſſed Martyr of this Day; in wiſhing you to think well of the Piety and Prudence of thoſe that have gone before: Thoſe Reformers who as they were duly Qua<g ref="char:EOLhyphen"/>lified, and Regularly call'd, had time to Debate Calmly, to weigh Impartially, and ſettle or<g ref="char:EOLhyphen"/>derly Matters of Religion, the Benefit of which we ſtill enjoy, did we know our Hap<g ref="char:EOLhyphen"/>pineſs: And when we are well enough (to ſpeak with the leaſt) we ſhould be very ſure
+<pb n="24" facs="tcp:53108:15"/> of an Advantage, before we venture upon a Cha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge.</p>
+               <p>Zeal is a good thing 'tis true, and Com<g ref="char:EOLhyphen"/>mendable, when according <hi>to knowledge,</hi> and in a <hi>good Matter</hi> as the Apoſtle ſpeaks; Other<g ref="char:EOLhyphen"/>wiſe<note place="margin">
+                     <hi>Gal.</hi> 4. 18.</note> to his ſad experience, he knew the Dan<g ref="char:EOLhyphen"/>gerouſneſs of it, and in nothing repented himſelf ſo much. For Zeal if blind, is a ſort<note place="margin">1 <hi>Tim.</hi> 1. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 3. 1 <hi>Cor.</hi> 15. 9.</note> of Wild-fire, that burns madly, and ſcatters its flame at Random; it ſets the Church on Fire at firſt, and then the State: And ſo the Flame that proceeds from the Houſe of God, <hi>Devours at length all the Houſes of the Land too.</hi>
+               </p>
+               <p>Zeal then for the Matter of it, muſt be always good, it muſt be directed to a right end, and proceed to that right end by Juſt and Equal Meaſures too; for we muſt not Rob for God, may I ſay, neither muſt we Murther Kings for the ſake of Religion.</p>
+               <p>Another Qualification of Zeal is, that a<note place="margin">
+                     <hi>Mr.</hi> Mede <hi>Diſcourſe</hi> 52.</note> Man does not exceed the Bounds of his Vo<g ref="char:EOLhyphen"/>cation. <hi>Art thou called</hi> to be in this or that Station? Says the Apoſtle, abide in thy Voca<g ref="char:EOLhyphen"/>tion<note place="margin">1 <hi>Cor.</hi> 7.</note> let not thy Zeal Tranſport thee beyond the bounds of Duty; God Almighty Loves to be ſerv'd Regularly, he is a God of Order, and not Confuſion,</p>
+               <pb n="25" facs="tcp:53108:15"/>
+               <p> No doubt, it was a Zeal in <hi>
+                     <g ref="char:V">Ʋ</g>zzah,</hi> to put<note place="margin">
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Sam.</hi> 6, 7.</note> his Hand to the Ark, to hinder its ſuppos'd falling; yet was he ſmitten with Death; for this Reaſon, becauſe his Zeal exceeded his Vocation, in medling with what according to a Law of God, was the Buſineſs of the Prieſt alone.</p>
+               <p>'Twas a Zeal in <hi>Saul</hi> perhaps, to Sacrifice<note place="margin">1 <hi>Sam.</hi> 13. 9.</note> in the Abſence of <hi>Samuel,</hi> but the loſs of his Kingdom to his Poſterity, taught him, he had much better have let it alone.</p>
+               <p>St. <hi>Peter</hi>'s untemper'd Zeal, coſt our Lord a Miracle to heal the Damage of it, and thoſe two Diſciples, no doubt in Zeal too,<note place="margin">
+                     <hi>Luk<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> 9. 54.</note> when they were for calling for Fire from Heaven, upon the <hi>Samaritans,</hi> received a ſuf<g ref="char:EOLhyphen"/>ficient Rebuke from our Saviour, when he told 'em, <hi>ye know not what Spirit ye are of.</hi>
+               </p>
+               <p>I cannot tell what to ſay to others, but me<g ref="char:EOLhyphen"/>thinks, I cou'd give my ſelf this Advice, I my ſelf cou'd learn this Leſſon well enough,<note place="margin">Office for Gunpowder Treaſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</note> never to ſtand up for an Armed Goſpel, to turn Faith into Faction, and Religion into Rebellion, as one of the Offices of our Church has it.</p>
+               <pb n="26" facs="tcp:53108:16" rendition="simple:additions"/>
+               <p> From this untempered Zeal, managed by an unlucky Faction, was the Source of all our late Blood-ſhed and Rebellion, which brought on the Death of the King, and the <hi>Deſtruction of an Excellent Monarchy, the true</hi>
+                  <note place="margin">12 <hi>Car.</hi> 2.</note> 
+                  <hi>Proteſtant Religion had ſo long Flouriſhed un<g ref="char:EOLhyphen"/>der.</hi>
+               </p>
+               <p>And can we be too watchful of our ſelves, to prevent the like again? Can we lay to Heart ſufficiently the Miſchiefs already done? If we can, we ſhould learn at ſo great coſt, to be ſo far wiſe at leaſt, as never to undo our ſelves by the ſame Methods again; never by Sinning over the ſame Sins, endanger the ſame Reproach and Calamity to Our ſelves and Nation once more.</p>
+               <p>If Religion plaid the Counterfeit once, we ſhou'd take care it ſhou'd do ſo no more; if pretended Zeal ſhew it ſelf in outrage before, it ſhould know its boundaries now.</p>
+               <p>We may give what Names we pleaſe to things; yet in their own Nature, they are what they are, and tho' we Baniſh 'em ne<g ref="char:EOLhyphen"/>ver ſo, they ſtill recur; Truth will be Truth, and Error, Error, notwithſtanding the ill Treatment of the one at ſometimes, and the
+<pb n="27" facs="tcp:53108:16"/> Colour and Speciouſneſs of the other. Religi<g ref="char:EOLhyphen"/>on muſt be, what it is; <hi>firſt pure,</hi> and then <hi>Peace<g ref="char:EOLhyphen"/>able,</hi> the <hi>Ornament of a Meek and Quiet Spi<g ref="char:EOLhyphen"/>rit,</hi> the beſt good thing, and moſt perfective of Man's Nature, and beſt fitted for the Well<g ref="char:EOLhyphen"/>fare of Human Society; <hi>as making always for Peace, and things wherewith we may edifie one</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 14. 19.</note> 
+                  <hi>another.</hi>
+               </p>
+               <p>If it ſhew it ſelf Turbulent and Diſorderly, it is no longer Religion than in Name, it be<g ref="char:EOLhyphen"/>comes a Sword in the Hand of the Revenge<g ref="char:EOLhyphen"/>ful, a Trick to amuſe with in the Juglar, and no other than Rage and Madneſs in the wild <hi>Enthaſiaſt;</hi> but all this by accident, and through abuſe of the beſt thing, by Diſtemper'd Paſſions of Licentious Men; upon which Score it is, our Saviour ſays, he came not to ſend <hi>Peace upon Earth,</hi> but a <hi>Sword,</hi> but <hi>Diviſion</hi> and <hi>Variance, ev'n of thoſe of a Man's own</hi>
+                  <note place="margin">
+                     <hi>Mat.</hi> 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 34. <hi>Luke</hi> 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1</note> 
+                  <hi>Houſhold:</hi> Not directly ſure; for there is no ſuch ill in the Nature of Religion, but through the Corrupt Will and Affections of unruly Men, in which he foreſaw what the event wou'd be.</p>
+               <p>If the Corruption of the beſt things then, be thus Dangerous, what Care and Caution
+<pb n="28" facs="tcp:53108:17"/> ſhould we uſe againſt all ſuch Inlets of De<g ref="char:EOLhyphen"/>ſtruction, <hi>all ſuch Appearance of Evil,</hi> tho' Recommended to us by an Angel of Light? Wou'd we then truly lay to Heart all our by<g ref="char:EOLhyphen"/>paſt Miſeries, Oppreſſions, Tumults and Deſolation, uſher'd in by this falſe Light, and pretended Zeal for Religion, the better to Cloak over a Malicious War? Wou'd we rightly Conſider, the Sins and Wickedneſs that occaſion'd the Periſhing of ſo many Righteous of our <hi>Iſrael,</hi> eſpecially Him of this Day, our Late Martyr'd Sovereign, a Martyr for the Law, Liberty and Religion truly ſo; nay a Martyr of the People too, whether they will or no? Would we do all this? There is no better way of Commend<g ref="char:EOLhyphen"/>ing our Repentance, <hi>than by bringing forth Works meet for it;</hi> ſuch Works as ſhou'd ſhew a thorough Change.</p>
+               <p>If the <hi>Fountains which ſent forth bitter Wa<g ref="char:EOLhyphen"/>ters before, do now ſend forth ſweet and whol<g ref="char:EOLhyphen"/>ſom Streams,</hi> we have nothing more to fear. If we ſtear a quite different Courſe now, avoiding the Rock of Offence, at which we ſtruck before: if we leave off our Old Sins: and tho' we heartily lov'd 'em once, can
+<pb n="29" facs="tcp:53108:17"/> now as Heartily pray in the Language of our Church againſt <hi>Sedition, Privy Conſpiracy and Rebellion:</hi> If in ſtead of Wrath, Hatred, Malice, Evil-ſpeaking, <hi>&amp;c. Thoſe Luſts from whence Wars proceed;</hi> We are able to put on Gen<g ref="char:EOLhyphen"/>tleneſs,<note place="margin">St. <hi>Jame<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 7. 4.</note> Meakneſs, Charity, Long-Suffering, Patience, <hi>forbearing one another in Love,</hi> &amp;c. then is our Work of Repentance in a great Meaſure Accompliſht; then are we ſaid to be Adorn'd with that peaceable Chriſtian Spirit; <hi>to partake of that Wiſdom from above,</hi>
+                  <note place="margin">
+                     <hi>James</hi> 3. 17. 18.</note> 
+                  <hi>full of Mercy and good Fruits, without Par<g ref="char:EOLhyphen"/>tiality, and without Hypocriſie; the Fruit of which Righteouſneſs, is ſown in Peace of them that make Peace.</hi>
+               </p>
+               <p>If we come thus far, the Remaining part is eaſie, and flows as a Conſequence from the former Vertues, <hi>viz.</hi> a Submiſſion where due, a ready Obedience to Authority, a regard to our Superiors, an awful Reverence to Crown'd Heads, a Dutiful Subjection to their preſent Majeſties, whom God has ſet over us, ev'n in the Race and Lineage ſtill, of that Glorious Martyr, we now Com<g ref="char:EOLhyphen"/>memorate.</p>
+               <pb n="30" facs="tcp:53108:18"/>
+               <p> This indeed is laying to Heart our for<g ref="char:EOLhyphen"/>mer Sins and Iniquities, when we can leave of <hi>ſpeaking Evil of Dignities,</hi> and ev'n in this <hi>Our Day</hi> at leaſt, ceaſe to Diſturb the Aſhes of that Good and Religious Prince, who fell by His People's Sins. It was our ſhame, not his, and ſhall we not then take away that Reproach from us?</p>
+               <p>If our Repentance be Hearty, we cannot furely either our ſelves be ſtill Reviling of his Memory, or have an Itch and Pleaſure in thoſe that do—but I muſt have done.</p>
+               <p>And for a better Farewell, ſhall direct<note place="margin">1 <hi>Tim.</hi> 2.</note> to one right uſe of Religion eſpecially, and that is, according to the Apoſtolick Canon, to Exhort <hi>that Prayers and Supplications may be daily made for Kings and all that are in Authority, that we may lead peaceable quiet Lives in all Godlineſs and Honeſty.</hi> You ſee the Reaſon of the Apoſtle for this, that <hi>we may lead peaceable Lives in all Godlineſs and Honeſty;</hi> Obedience to the State, has an Influence upon the Church and Reli<g ref="char:EOLhyphen"/>gion too. They naturally help one the other, they either fare well or ill toge<g ref="char:EOLhyphen"/>ther.</p>
+               <pb n="31" facs="tcp:53108:18"/>
+               <p> In a Word then, let us Conjoyn what things the Apoſtle has Conjoyn'd, and why ſhould we ſeparate them? Let us put to<g ref="char:EOLhyphen"/>gether in our practice, what St. <hi>Peter</hi> has<note place="margin">1 <hi>Pet.</hi> 2.</note> given us together in his Precept, and <hi>That is, Let us fear God, and Honour the King.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAg. 12. l. 12. read <hi>we;</hi> p. 20. Marg. <hi>dele</hi> 1 <hi>Sam.</hi> 13. 20. p. 24. l. 2. read <hi>Change.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:53108:19" rendition="simple:additions"/>
+            <head>Books Printed for <hi>W. Crooke,</hi> at the <hi>Green-Dragon</hi> without <hi>Temple-Bar.</hi>
+            </head>
+            <p>DR. <hi>Pelling</hi>'s Practical Diſcourſe on the Sacrament: Octavo.</p>
+            <p>—His Sermon before the Queen, <hi>March</hi> 16. 1691/2. Quarto.</p>
+            <p>—His Sermon at the Biſhop of <hi>Chicheſter</hi>'s Primary Viſitation, <hi>Sept.</hi> 28. 1692.</p>
+            <p>—His Practical Diſcourſe of Prayer in Octavo, Price one 1 s. Bound.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
